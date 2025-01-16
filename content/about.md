@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2023-10-06T20:37:29+07:00
 image: images/MarvelRivalsPhoto1.jpg
 draft: false
 ---
@@ -11,6 +10,7 @@ draft: false
 Marvel Rivals is an exhilarating multiplayer game that pits two teams of six players against each other in dynamic and strategic battles. Each match is a test of teamwork, strategy, and skill as players choose their heroes or villains, form alliances, and fight to dominate the battlefield.
 
 ## Key Features:
+
 
 - **Iconic Characters**: Choose from a vast selection of Marvel heroes and villains, including fan favorites like Spider-Man, Iron Man, Thor, Black Widow, Loki, and more.
 

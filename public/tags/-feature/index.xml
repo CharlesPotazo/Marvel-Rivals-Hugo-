@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>-Feature on Marvel Rivals</title>
+    <link>http://localhost:1313/tags/-feature/</link>
+    <description>Recent content in -Feature on Marvel Rivals</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/-feature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IronMan</title>
+      <link>http://localhost:1313/posts/herolist/duelist/ironman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/herolist/duelist/ironman/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Iron Man&lt;/strong&gt; Armed with superior intellect and a nanotech battlesuit of his own design, Tony Stark stands alongside gods as the Invincible Iron Man. His state of the art armor turns any battlefield into his personal playground, allowing him to steal the spotlight he so desperately desires.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
