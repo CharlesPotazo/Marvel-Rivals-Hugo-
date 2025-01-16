@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/feature/</loc>
+    <loc>//localhost:1313/tags/feature/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
+    <loc>//localhost:1313/categories/news/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/newslist/season1newmaps/</loc>
+    <loc>//localhost:1313/posts/newslist/season1newmaps/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-01-08T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/newslist/statement/</loc>
+    <loc>//localhost:1313/posts/newslist/statement/</loc>
     <lastmod>2025-01-07T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/newslist/newcharactersmrfantastic/</loc>
+    <loc>//localhost:1313/posts/newslist/newcharactersmrfantastic/</loc>
     <lastmod>2025-01-07T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/duelist/blackpanther/</loc>
+    <loc>//localhost:1313/posts/herolist/duelist/blackpanther/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/vanguard/captainamerica/</loc>
+    <loc>//localhost:1313/posts/herolist/vanguard/captainamerica/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/vanguard/doctorstrange/</loc>
+    <loc>//localhost:1313/posts/herolist/vanguard/doctorstrange/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/duelist/hawkeye/</loc>
+    <loc>//localhost:1313/posts/herolist/duelist/hawkeye/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/heroes/</loc>
+    <loc>//localhost:1313/categories/heroes/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/vanguard/hulk/</loc>
+    <loc>//localhost:1313/posts/herolist/vanguard/hulk/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/duelist/ironman/</loc>
+    <loc>//localhost:1313/posts/herolist/duelist/ironman/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/strategist/jeffthelandshark/</loc>
+    <loc>//localhost:1313/posts/herolist/strategist/jeffthelandshark/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/strategist/lunasnow/</loc>
+    <loc>//localhost:1313/posts/herolist/strategist/lunasnow/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/herolist/strategist/rocketraccoon/</loc>
+    <loc>//localhost:1313/posts/herolist/strategist/rocketraccoon/</loc>
     <lastmod>2024-12-01T13:45:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/heroes/</loc>
+    <loc>//localhost:1313/heroes/</loc>
   </url><url>
-    <loc>http://localhost:1313/maps/</loc>
+    <loc>//localhost:1313/maps/</loc>
   </url>
 </urlset>

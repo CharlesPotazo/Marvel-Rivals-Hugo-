@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heroes on Marvel Rivals</title>
-    <link>http://localhost:1313/categories/heroes/</link>
+    <link>//localhost:1313/categories/heroes/</link>
     <description>Recent content in Heroes on Marvel Rivals</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 13:45:49 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/heroes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/heroes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Panther</title>
-      <link>http://localhost:1313/posts/herolist/duelist/blackpanther/</link>
+      <link>//localhost:1313/posts/herolist/duelist/blackpanther/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/duelist/blackpanther/</guid>
+      <guid>//localhost:1313/posts/herolist/duelist/blackpanther/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Black Panther&lt;/strong&gt; T&amp;rsquo;Challa, King of Wakanda, wields the perfect blend of the cutting-edge Vibranium technology and ancestral power drawn from the Panther God, Bast. The Black Panther bides his time until elegantly infiltrating enemy lines and commencing his hunt.Most landsharks are vicious creatures of the deep&amp;hellip; but not Jeff! This adorable and mischievous little landshark brings splashes of joy and healing to every battle. But if the tide turns, Jeff can morph into a voracious beast, swallowing an army of foes in one giant gulp!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Captain America</title>
-      <link>http://localhost:1313/posts/herolist/vanguard/captainamerica/</link>
+      <link>//localhost:1313/posts/herolist/vanguard/captainamerica/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/vanguard/captainamerica/</guid>
+      <guid>//localhost:1313/posts/herolist/vanguard/captainamerica/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Captain America&lt;/strong&gt; Enhanced by the Super-Soldier Serum, Steven &amp;ldquo;Steve&amp;rdquo; Rogers uses his Vibranium shield and extensive combat training to confront any threat to justice. When Captain America rallies his troops, a wave of courage sweeps across the battlefield!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doctor Strange</title>
-      <link>http://localhost:1313/posts/herolist/vanguard/doctorstrange/</link>
+      <link>//localhost:1313/posts/herolist/vanguard/doctorstrange/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/vanguard/doctorstrange/</guid>
+      <guid>//localhost:1313/posts/herolist/vanguard/doctorstrange/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Doctor Strange&lt;/strong&gt; As the Sorcerer Supreme, Doctor Stephen Strange gracefully wields ancient spells to turn the tide of even the most impossible battle. However, magic always comes at a cost, and each use of his arcane abilities gradually awakens the darkness within him.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hawkeye</title>
-      <link>http://localhost:1313/posts/herolist/duelist/hawkeye/</link>
+      <link>//localhost:1313/posts/herolist/duelist/hawkeye/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/duelist/hawkeye/</guid>
+      <guid>//localhost:1313/posts/herolist/duelist/hawkeye/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Black Panther&lt;/strong&gt; Despite his lack of superpowers, Hawkeye&amp;rsquo;s unparalleled skills as a marksman have earned him a spot alongside earth&amp;rsquo;s mightiest heroes. With a cool head and steady hand, Clint Barton never misses a target… so enemies best stay out of his sights!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hulk</title>
-      <link>http://localhost:1313/posts/herolist/vanguard/hulk/</link>
+      <link>//localhost:1313/posts/herolist/vanguard/hulk/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/vanguard/hulk/</guid>
+      <guid>//localhost:1313/posts/herolist/vanguard/hulk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hulk&lt;/strong&gt; Brilliant scientist Dr. Bruce Banner has finally found a way to coexist with his monstrous alter ego, the Hulk. By accumulating gamma energy over multiple transformations, he can become a wise and strong Hero Hulk or a fierce and destructive Monster Hulk – a true force of fury on the battlefield!&lt;/p&gt;</description>
     </item>
     <item>
       <title>IronMan</title>
-      <link>http://localhost:1313/posts/herolist/duelist/ironman/</link>
+      <link>//localhost:1313/posts/herolist/duelist/ironman/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/duelist/ironman/</guid>
+      <guid>//localhost:1313/posts/herolist/duelist/ironman/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Iron Man&lt;/strong&gt; Armed with superior intellect and a nanotech battlesuit of his own design, Tony Stark stands alongside gods as the Invincible Iron Man. His state of the art armor turns any battlefield into his personal playground, allowing him to steal the spotlight he so desperately desires.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jeff The Land Shark</title>
-      <link>http://localhost:1313/posts/herolist/strategist/jeffthelandshark/</link>
+      <link>//localhost:1313/posts/herolist/strategist/jeffthelandshark/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/strategist/jeffthelandshark/</guid>
+      <guid>//localhost:1313/posts/herolist/strategist/jeffthelandshark/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Jeff The Land Shark&lt;/strong&gt; Most landsharks are vicious creatures of the deep&amp;hellip; but not Jeff! This adorable and mischievous little landshark brings splashes of joy and healing to every battle. But if the tide turns, Jeff can morph into a voracious beast, swallowing an army of foes in one giant gulp!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Luna Snow</title>
-      <link>http://localhost:1313/posts/herolist/strategist/lunasnow/</link>
+      <link>//localhost:1313/posts/herolist/strategist/lunasnow/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/strategist/lunasnow/</guid>
+      <guid>//localhost:1313/posts/herolist/strategist/lunasnow/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Luna Snow&lt;/strong&gt; Equal parts pop star and Super Hero, Luna Snow puts on a dazzling show with both her light and dark ice powers. The arena is her stage, where Seol Hee and her team orchestrate spectacular displays that earn her an ever-increasing number of fans and wins.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rocket Raccoon</title>
-      <link>http://localhost:1313/posts/herolist/strategist/rocketraccoon/</link>
+      <link>//localhost:1313/posts/herolist/strategist/rocketraccoon/</link>
       <pubDate>Sun, 01 Dec 2024 13:45:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/herolist/strategist/rocketraccoon/</guid>
+      <guid>//localhost:1313/posts/herolist/strategist/rocketraccoon/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Rocket Raccoon&lt;/strong&gt; Rocket may not look like a tech genius or an expert tactician, but anyone who&amp;rsquo;s ever made his hit list has quickly regretted underestimating him. This savvy space soldier is equally eager to boost his teammates and to collect bounties on his foes.&lt;/p&gt;</description>
     </item>
   </channel>
